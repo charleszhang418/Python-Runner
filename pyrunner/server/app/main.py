@@ -12,7 +12,7 @@ import sys
 
 app = FastAPI()
 
-DATABASE_URL = "sqlite+aiosqlite:///./test.db"
+DATABASE_URL = "sqlite+aiosqlite:///./app/test.db"
 engine = create_async_engine(DATABASE_URL, echo=True, future=True)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine, class_=AsyncSession)
 Base = declarative_base()
