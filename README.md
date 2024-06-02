@@ -19,4 +19,6 @@ For frontend:
 2. npm start 
 
 
-Feel free to watch the demo video for a quick look at the Code Runner!
+DEMO
+https://github.com/charleszhang418/Python-Runner/assets/43127672/c5436b4d-8227-4f92-be2d-5ff6278a5fc5
+
