@@ -20,3 +20,4 @@ For frontend:
 
 
 Feel free to watch the demo video for a quick look at the Code Runner!
+<video width="630" height="300" src="https://github.com/charleszhang418/Python-Runner/blob/main/demo.mkv"></video>
