@@ -19,5 +19,4 @@ For frontend:
 2. npm start 
 
 
-Feel free to watch the demo video for a quick look at the Code Runner!
-<video width="630" height="300" src="https://github.com/charleszhang418/Python-Runner/blob/main/demo.mkv"></video>
+[![Watch the video](https://youtu.be/H07IxdyL4Zk?si=dlvj3dHDn-9xQVGR)](https://youtu.be/H07IxdyL4Zk?si=dlvj3dHDn-9xQVGR)
