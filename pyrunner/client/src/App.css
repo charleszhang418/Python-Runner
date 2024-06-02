@@ -1,0 +1,29 @@
+.split-view {
+  display: flex;
+  height: 90vh;
+}
+
+.editor-pane, .output-pane {
+  flex: 1;
+  padding: 10px;
+}
+
+.editor-pane {
+  border-right: 1px solid #ccc;
+}
+
+.output-pane {
+  overflow-y: auto;
+}
+
+.execute-button {
+  margin-top: 10px;
+  padding: 8px 16px;
+  font-size: 16px;
+}
+
+.clear-button {
+  margin-top: 10px;
+  padding: 8px 16px;
+  font-size: 16px;
+}
