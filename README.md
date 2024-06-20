@@ -18,7 +18,3 @@ For frontend:
 1. cd pyrunner/client
 2. npm start 
 
-
-DEMO
-https://github.com/charleszhang418/Python-Runner/assets/43127672/c5436b4d-8227-4f92-be2d-5ff6278a5fc5
-

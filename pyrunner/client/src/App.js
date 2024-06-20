@@ -51,7 +51,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Python Code Runner by Charles Zhang</h1>
+      <h1>Python Code Runner</h1>
       <div className="split-view">
         <div className="editor-pane">
           <MonacoEditorComponent
